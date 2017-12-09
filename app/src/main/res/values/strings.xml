@@ -1,0 +1,10 @@
+<!--
+  ~ Copyright (C) 2016 Baidu, Inc. All Rights Reserved.
+  -->
+<resources>
+    <string name="app_name">BaiduMapSDK_BikeNavi_Demo</string>
+    <string name="normal" >普通地图</string>
+    <string name="weixing">卫星地图</string>
+    <string name="shishi">实时交通</string>
+
+</resources>
